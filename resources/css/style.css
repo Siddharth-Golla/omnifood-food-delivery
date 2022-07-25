@@ -140,7 +140,7 @@ section {
 header {
     background-image: linear-gradient(rgba(0, 0, 0, 0.6),
             rgba(0, 0, 0, 0.6)),
-        url(/resources/css/img/hero-orange.jpg);
+        url(resources/css/img/hero-orange.jpg);
     height: 100vh;
     background-size: cover;
     background-position: center;
