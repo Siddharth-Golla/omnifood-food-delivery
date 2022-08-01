@@ -1,5 +1,19 @@
 @media only screen and (max-width:1200px) {
-    
+    .hero-text-box {
+        width: 100%;
+        padding: 0 3%;
+    }
+
+    .row {
+        padding: 0 2%;
+    }
+    .plan-box-2 ul li{
+        font-size: 85%;
+    }
+
+    .cities-features {
+        font-size: 95%;
+    }
 }
 @media only screen and (max-width:1023px) {
     
