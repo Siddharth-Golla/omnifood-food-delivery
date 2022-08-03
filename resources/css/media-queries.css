@@ -46,7 +46,50 @@
     .steps-box:first-child {
         text-align: center;
     }
+    .logo {
+        height: 0px;
+    }
+    .hero-text-box {
+        width: 100%;
+        padding: 5% 3%;
+    }
+    .works-step div {
+        padding: 8px;
+    }
+
+    .box {
+        margin-top: 10px;
+    }
+
+    .box h3 {
+        text-align: center;
+        font-size: 140%;
+    }
+
+    .plan-box {
+        width: 90%;
+        margin-left: 5%;
+    }
+
+    .plan-box div {
+        border-top: 1px solid #e3e3e3;
+    }
+
+    .plan-box-2 ul li {
+        font-size: 110%;
+    }
+
+    .cities-features {
+        font-size: 100%;
+    }
+
+    .form-submit{
+        text-align: center;
+    }
+    .social-links {
+        width: 70%;
+    }
 }
 @media only screen and (max-width:479px) {
-
+    
 }
